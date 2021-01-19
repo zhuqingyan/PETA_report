@@ -1,0 +1,1 @@
+waterfall(brcaMAF, fileType="MAF")
